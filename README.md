@@ -15,7 +15,7 @@
 
 -------
 
-## 🚀 Project Description
+## 🚀 Project Description   
 
 This **3D Weather App**, built with **Spring Boot**, provides real-time weather information such as **temperature, humidity, wind speed**, and **conditions** based on user input (city name or coordinates).  
 It integrates seamlessly with external weather APIs to deliver structured **JSON responses** or display weather data through a clean **animated 3D UI**.  
