@@ -25,7 +25,7 @@ The app features **exception handling**, **API response mapping**, and **optiona
   <img src="https://i.pinimg.com/originals/42/88/9e/42889ee4b7d9377e6b723c737c29e6f1.gif" width="600"/>
 </p>
 
--------
+-----
 
 ## 🧩 Features
 - 🌍 Real-time weather by city name or coordinates  
