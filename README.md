@@ -48,7 +48,7 @@ The app features **exception handling**, **API response mapping**, and **optiona
 | **Frontend (optional)** | HTML, CSS, Bootstrap, Thymeleaf |
 | **Testing** | JUnit, Mockito |
 
--------------
+-------
 
 ## ⚙️ Configuration
 
