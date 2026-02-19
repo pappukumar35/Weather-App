@@ -1,6 +1,6 @@
 <!-- ================================== -->
 <h1 align="center">🌦️ 3D Weather App (Spring Boot)</h1>
-<!-- ================================== -->
+<!-- ================================ -->
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1708950/screenshots/5933942/forecast.gif" width="400"/>
