@@ -60,7 +60,7 @@ weather.api.key=your_api_key_here
 
 | Method | Endpoint                       | Description                |
 | ------ | ------------------------------ | -------------------------- |
-| `GET`  | `/api/weather?city={cityName}` | Get weather by city        |
+| `GET`  | `/api/weather?={cityName}` | Get weather by city        |
 | `GET`  | `/api/weather/{lat}/{lon}`     | Get weather by coordinates |
 | `GET`  | `/ui`                          | Simple animated web UI     |
 
